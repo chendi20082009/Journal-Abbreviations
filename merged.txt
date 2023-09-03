@@ -2260,6 +2260,7 @@ Food Quality and Safety	Food Qual. Saf.	Food Qual Saf
 Food Research International	Food Res. Int.	Food Res Int
 Food Science and Biotechnology	Food Sci. Biotechnol.	Food Sci Biotechnol
 Food Science and Human Wellness	Food Sci. Hum. Wellness	Food Sci Hum Wellness
+Food Science and Technology	Food Sci. Technol.	Food Sci Technol
 Food Science and Technology International	Food Sci. Technol. Int.	Food Sci Technol Int
 Food Science and Technology Research	Food Sci. Technol. Res.	Food Sci Technol Res
 Footwear Science	Footwear Sci.	Footwear Sci
